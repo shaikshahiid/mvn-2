@@ -1,0 +1,19 @@
+{
+  "baseScheme": "ASD",
+  "baseGroupId": "DEVOPS4",
+  "baseArtifactId": "PROJECT4",
+  "baseVersion": "2.20.1",
+  "name": "MAVEN-PROJECT4",
+  "scheme": "ASDWER1",
+  "javaType": "devops-4.MAVEN-PROJECT4Component",
+  "groupId": "devops-4",
+  "artifactId": "project-4",
+  "version": "1.0-SNAPSHOT",
+  "description": "new project 4",
+  "labels" : [ "foo", "bar" ],
+  "pattern": "From",
+  "endpointOptions" : [ "foo", "bar" ],
+  "endpointValues" : {
+    "foo" : "2"
+  }
+}
